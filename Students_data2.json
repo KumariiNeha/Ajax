@@ -1,5 +1,4 @@
-[
-{"Name":"Anil kumar","Clas":"MCA","Roll":"1","sec":"A","pno":"9876789876"},
+[{"Name":"Anil kumar","Clas":"MCA","Roll":"1","sec":"A","pno":"9876789876"},
 {"Name":"Abhishek kumar","Clas":"MCA","Roll":"2","sec":"A","pno":"4652487684"},
 {"Name":"Dibyanshu kumar","Clas":"MCA","Roll":"3","sec":"A","pno":"4652487684"},
 {"Name":"Fatima Khan","Clas":"MCA","Roll":"4","sec":"A","pno":"4652487684"},
@@ -8,5 +7,4 @@
 {"Name":"Jyoti kumari","Clas":"MCA","Roll":"7","sec":"A","pno":"4652487684"},
 {"Name":"Kesabh kumari","Clas":"MCA","Roll":"8","sec":"A","pno":"4652487684"},
 {"Name":"Nikil kumar","Clas":"MCA","Roll":"58","sec":"A","pno":"3846572198"},
-{"Name":"Payal kumari","Clas":"MCA","Roll":"60","sec":"A","pno":"7685432176"},
-]
+{"Name":"Payal kumari","Clas":"MCA","Roll":"60","sec":"A","pno":"7685432176"}]
